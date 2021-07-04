@@ -140,6 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CRCDecoder.c" />
+    <ClCompile Include="CRCEncoder.c" />
+    <ClCompile Include="HammingDecoder.c" />
+    <ClCompile Include="HammingEncoder.c" />
+    <ClCompile Include="TwoLayerChannelDecoder.c" />
+    <ClCompile Include="TwoLayerChannelEncoder.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

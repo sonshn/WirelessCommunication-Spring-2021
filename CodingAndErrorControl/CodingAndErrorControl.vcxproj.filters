@@ -18,5 +18,20 @@
     <ClCompile Include="CRCDecoder.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CRCEncoder.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HammingDecoder.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HammingEncoder.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoLayerChannelDecoder.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoLayerChannelEncoder.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
